@@ -6,7 +6,12 @@ Daily production reports are shown, both day shift and night shift.
 https://murwycerrocorona.herokuapp.com/
 
 User: murwy
+
 Password: alejandro
+
+
+
+
 
 
 
